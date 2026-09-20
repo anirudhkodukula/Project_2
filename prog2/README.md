@@ -10,7 +10,7 @@ Time: 9/20/2026
 
 Collaborators: Vishva Rao, Sriram Muppurapu (They explained to me how I didn't need to actually calculate probabilities and that adding to the list, means higher frequency allows for higher chance of getting chosen.)
 
-Comments: Used 2 slip days (17 mins into the second day).
+Comments: Used 2 slip days.
 
 
 # Starter code info
